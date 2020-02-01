@@ -1,6 +1,7 @@
 # xylophone_app
 
-playing the xylophone
+playing the xylophone with 7 notes sounds.
+<image src="https://i.imgur.com/gfkDFU3.png"/>
 
 ## Getting Started
 
